@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
-public class StringNumberOddSubtractEvenSumMethod {
+public class String_NumberOddSubtractEvenSum_Method {
     public static void main(String[] args) {
+
         //5-EvenOddNums isminde bir method oluşturun.
         //Bu yöntem String olan bir parametreyi kabul etsin.
         //Bu String'de 1234567890 gibi 10 haneli sayılar olacak.
@@ -37,6 +38,6 @@ public class StringNumberOddSubtractEvenSumMethod {
 
         return sumResult;
 
-    }
 
+    }
 }
