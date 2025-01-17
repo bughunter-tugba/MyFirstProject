@@ -16,7 +16,7 @@ public class Append_Array_Method {
         for (int i = 0; i < mathNotes.length; i++) {
             System.out.print("Enter the math notes of the students : ");
             mathNotes[i] = scanInt.nextInt();
-            System.out.print("Enter the  physical of the students : ");
+            System.out.print("Enter the  physical notes of the students : ");
             physicalNotes[i] = scanInt.nextInt();
         }
         scanInt.close();
